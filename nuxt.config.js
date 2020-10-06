@@ -1,3 +1,3 @@
 export default {
-  serverMiddleware: ['~/serverMiddleware/selectiveSSR.js']
+  serverMiddleware: ['@/serverMiddleware/selectiveSSR.js']
 }
