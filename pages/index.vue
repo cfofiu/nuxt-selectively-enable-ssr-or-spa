@@ -1,8 +1,8 @@
 <template>
   <div>
     <p>
-      Access <a href="/a" target="_blank">/a</a> for SPA, other pages (eg.
-      <a href="/b" target="_blank">/b</a>) for SSR.
+      Access <a href="/a">/a</a> for SPA, other pages (eg.
+      <a href="/b">/b</a>) for SSR.
     </p>
     <br />
     <br />
